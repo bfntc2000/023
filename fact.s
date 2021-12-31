@@ -31,3 +31,5 @@ L1:
     addi $sp, $sp, 8
     mul $a0, $t0, $a0
     jr $ra
+#Happy new year
+#2022
